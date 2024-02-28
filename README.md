@@ -17,3 +17,5 @@ This repo was structured to switch between different dev environments.
 
 - Open folder in container with `Ctrl+Shift+p` and using command `Dev Containers: Reopen in Container`
 - Leave container with `Ctrl+Shift+p` and using command `Dev Containers: Reopen Folder Locally`
+
+One you are in a container, you can use the python debugger in VSCode as normal.
